@@ -7,8 +7,8 @@
 class Cdclint < Formula
   desc "Lint the contract between a database, a Debezium connector and a sink"
   homepage "https://github.com/avison9/cdclint"
-  url "https://github.com/avison9/cdclint/archive/refs/tags/v0.3.0.tar.gz"
-  sha256 "62bebbf159beba145f13808d16bec80425f2c3dfb864f010adf5913d0eccb7f8"
+  url "https://github.com/avison9/cdclint/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "76bbc60603174676644ce54b141ae7a9970f94c7703a6bc726d43fb9de16cd3f"
   license "Apache-2.0"
   head "https://github.com/avison9/cdclint.git", branch: "main"
 
